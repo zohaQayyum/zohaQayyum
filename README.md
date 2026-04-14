@@ -90,16 +90,6 @@ Full e-commerce platform built with Rails 7 — product catalog with full-text s
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Zoha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zohaQayyum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I'm currently **open to remote opportunities** — full-time, part-time, or freelance — with international clients worldwide.
