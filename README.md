@@ -52,6 +52,7 @@ I'm a **Ruby on Rails Backend Engineer** with **3+ years of production experienc
 ![Sidekiq](https://img.shields.io/badge/Sidekiq-B1003E?style=flat-square&logo=sidekiq&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![RSpec](https://img.shields.io/badge/RSpec-CC0000?style=flat-square&logo=ruby&logoColor=white)
 
 ---
@@ -69,24 +70,23 @@ I'm a **Ruby on Rails Backend Engineer** with **3+ years of production experienc
 
 ## 💡 Core Strengths
 
-```
-✅ REST API Design & Integration          ✅ Third-Party API Integrations (Sikka, Stripe, etc.)
-✅ Background Jobs with Sidekiq           ✅ MySQL / PostgreSQL Query Optimization
-✅ Legacy System Migrations               ✅ Cloud Storage (AWS S3, Cloudflare R2)
-✅ Service Objects & Clean Architecture   ✅ Remote Agile Teams
-```
+- ✅ REST API Design & Integration
+- ✅ Third-Party API Integrations (Sikka, OpenGDS)
+- ✅ Background Jobs with Sidekiq
+- ✅ MySQL / PostgreSQL Query Optimization
+- ✅ Legacy System Migrations
+- ✅ Cloud Storage (AWS S3, Cloudflare R2, Cloudinary)
+- ✅ Service Objects & Clean Architecture
+- ✅ Remote Agile Teams
 
 ---
 
 ## 📌 Featured Projects
 
-### 🍔 [Food Ordering System](https://github.com/zohaQayyum/Food-ordering-sysytem)
-A web-based food ordering application. *(README & improvements in progress)*
+### 🕯️ [Heaven Candles](https://heaven-candles.onrender.com)
+Full e-commerce platform built with Rails 7 — product catalog with full-text search (pg_search), shopping cart, order management with state machine validation, admin panel, email notifications with Action Mailer + Sidekiq, and Cloudinary image storage.
 
-### 💰 [Finance Tracker](https://github.com/zohaQayyum/finance-tracker-01)
-A Ruby-based finance tracking application. *(README & improvements in progress)*
-
-> 🔨 **More production-style projects coming soon** — Rails API integrations, booking systems, and AI-powered Rails apps.
+**[Live Demo](https://heaven-candles.onrender.com)** · **[GitHub](https://github.com/zohaQayyum/heaven_candles)**
 
 ---
 
@@ -94,8 +94,7 @@ A Ruby-based finance tracking application. *(README & improvements in progress)*
 
 <div align="center">
 
-![Zoha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zohaQayyum&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaQayyum&layout=compact&theme=tokyonight&hide_border=true)
+![Zoha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zohaQayyum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
 
@@ -103,7 +102,7 @@ A Ruby-based finance tracking application. *(README & improvements in progress)*
 
 ## 📫 Let's Connect
 
-I'm currently **open to remote opportunities** — full-time, part-time, or freelance — with US/Canada clients.
+I'm currently **open to remote opportunities** — full-time, part-time, or freelance — with international clients worldwide.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zoha-qayyum-54a416215/)
 - 📧 zoha17qayyum@gmail.com
